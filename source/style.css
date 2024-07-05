@@ -24,6 +24,14 @@ h2 {
 h5 {
   line-height: 4;
 }
+.intro {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+
+  line-height: 1.5;
+  font-size: 24px;
+  opacity: 0.6;
+  padding: 0px 20px 40px;
+}
 img {
   display: block;
   margin: auto;
